@@ -53,14 +53,3 @@ Software Engineering (Fourth Quadrimester)
 UNIMINUTO University, Bogotá
 GPA: 4.4
 Additional Notes
-
-Feel free to customize this template further by adding project links, links to your social media profiles, or any other relevant information you'd like to showcase.
-Consider using badges to highlight your skills and technologies: <https://shields.io/>
-Key Improvements:
-
-Clarity and Conciseness: Streamlined the content for better readability.
-Skill Categorization: Grouped skills by category for easier navigation.
-Version Numbers: Maintained selective versioning for key technologies.
-Optional Resume Link: Added a placeholder for a resume link.
-Additional Notes: Provided suggestions for further customization.
-Badge Integration (Optional): Highlighted the option to add badges for visual appeal.
