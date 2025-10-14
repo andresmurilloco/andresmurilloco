@@ -4,7 +4,19 @@ Software Engineering Student | Jr. Fullstack Developer
 
 About
 
-I'm a passionate software engineering student with a strong foundation in various technologies like JavaScript, MySQL, Java, C++, and NodeJS. My pursuit of knowledge extends beyond classrooms, evidenced by multiple completed certified courses. I'm fueled by a desire to learn and adapt, constantly seeking new skills and technologies to add value to projects. My work experience has honed my communication, problem-solving, and stress-management abilities, allowing me to thrive in dynamic environments.
+Software Engineering student with a strong foundation in backend development. Currently working as a Backend Development Analyst, actively involved in the maintenance, evolution, and scalability of the company’s internal platform.
+
+- Developed robust backend applications using Laravel, applying best practices and SOLID principles.
+
+- Optimized MariaDB databases with a focus on efficiency, data integrity, and high availability.
+
+- Automated workflows and deployed services using Docker, improving team productivity and standardization.
+
+- Integrated and managed CI/CD pipelines using GitLab CI, enhancing delivery processes and code reliability.
+
+- Currently expanding my skill set in the Java ecosystem by learning Spring Boot, aiming to strengthen my capabilities in building scalable and high-performance applications.
+
+Passionate about technology, continuous learning, and challenges that drive professional growth. Deeply interested in Machine Learning and Artificial Intelligence, with plans to specialize in these fields in the near future.
 
 ## Stack
 
@@ -16,63 +28,35 @@ Python 3
 
 Java
 
-C++
-
-HTML5
-
-CSS
-
-
 Front-End:
 
 ReactJS (18+)
 
-NextJS (14+)
-
-Tailwind CSS (3+)
-
-Material UI (6+)
+Angular (19+)
 
 
 Back-End:
 
 NodeJS (22+)
 
-Express.js (4+)
-
-Sequelize (6+)
-
-Prisma (5+)
-
-Axios (1+)
-
-JWT (9+)
-
-Nodemon (3+)
-
 Django (5+)
+
+Laravel (11+)
 
 
 Databases:
 
-MySQL
+SQL
 
-PostgreSQL
-
-MongoDB
-
+NoSQL
 
 Tools:
 
-Git
-
-GitHub
-
 Docker
 
-Postman
-
 DB clients (DBeaver, Insomnia)
+
+DB Managers
 
 Testing: Jest
 
@@ -80,6 +64,10 @@ IDEs (Visual Studio Code, Eclipse)
 
 Methodologies: Agile, Scrum
 
+## Experience
+
+Backend Developer @ La Fortuna S.A
+02/2025 - Current
 
 ## Education
 Software Engineering (Fourth Quadrimester)
