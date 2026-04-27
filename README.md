@@ -6,9 +6,9 @@ I am a results-driven Backend Development Analyst and Software Engineering stude
 
 ### 🚀 About Me
 
-- 🛠️ Currently specializing in **Spring Boot, Laravel, and Node.js**.
+- 🛠️ Currently specializing in **Spring Boot, Python and Node.js**.
 - 🎨 Experienced in building dynamic UIs with **Angular and React**.
-- 🏗️ Deeply interested in **DevOps culture**, actively working with **Docker, Kubernetes, and CI/CD** pipelines.
+- 🏗️ Deeply interested in **DevOps culture**, actively working with **n8n, Docker, Kubernetes, and CI/CD** pipelines.
 - 🐧 Proud **Linux user** and automation fan.
 - 🌍 Bilingual (**Spanish & English**) and currently learning **Italian** 🇮🇹.
 
